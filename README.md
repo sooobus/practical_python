@@ -15,3 +15,5 @@
 * Работа с картами: geoplotlib
 * Графики и данные: matplotlib
 * Динамическая графика: PyGame
+* telebot, VK API
+* Jupyter Notebook
