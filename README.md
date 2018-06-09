@@ -17,3 +17,4 @@
 * Динамическая графика: PyGame
 * telebot, VK API
 * Jupyter Notebook
+* TkInter / Qt
