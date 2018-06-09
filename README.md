@@ -21,3 +21,5 @@
 * Сеть: sockets, server-clients.
 * map/reduce (?)
 * Простые алгоритмы машинного обучения: деревья, регрессия, ???
+* Django
+* Heroku
