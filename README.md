@@ -10,7 +10,7 @@
 * Системы контроля версий: Git(Hub)
 * Парсинг веб-сайтов: Beautiful Soup
 * Графы: GraphViz
-* Сохранение классов: pickle
+* Сохранение классов: pickle, работа с таблицами: csv
 * Перевод: Google Translate API
 * Работа с картами: geoplotlib
 * Графики и данные: matplotlib
