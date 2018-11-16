@@ -31,3 +31,6 @@
 Полезное:
 https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks
 https://leetcode.com/problemset/all/
+
+Случайные идеи
+- Сделать диаграмму Вороного по точкам
