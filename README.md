@@ -45,3 +45,6 @@
 
 Полезное:
 https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks
+
+Случайные идеи
+- Сделать диаграмму Вороного по точкам
