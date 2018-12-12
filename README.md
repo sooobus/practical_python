@@ -1,6 +1,8 @@
 # practical_python
 Курс для школьников Силаэдра по приложениям языка Python
 
+[Colab листка 1+](https://colab.research.google.com/drive/1aQ0g7FFiKZtEQg6WJ5fRbyiGBirH2Ru2)
+
 Примерные темы/технологии, которые будут использованы:
 
 * Системы контроля версий: Git(Hub)
